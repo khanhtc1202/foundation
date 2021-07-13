@@ -31,6 +31,17 @@ everyone, regardless of level of experience, gender, gender identity and express
 sexual orientation, disability, personal appearance, body size, race, ethnicity, age,
 religion, or nationality.
 
+## Our Standards
+
+Examples of behavior that contributes to a positive environment for our community include:
+
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the overall community
+
+
 Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery
@@ -53,8 +64,15 @@ when an individual is representing the project or its community.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior in Kubernetes may be reported by contacting the [Kubernetes Code of Conduct Committee](https://git.k8s.io/community/committee-code-of-conduct) via <conduct@kubernetes.io>. For other projects, please contact the CNCF staff via <conduct@cncf.io>. You can expect a response within three business days. In matters that require an outside mediator, we have retained Mishi Choudhary (mishi@linux.com).
 
+Project maintainers may follow Community Impact Guidelines for determining consequences for any action they deem in violation of this Code of Conduct:
+
+Correction
+Warning
+Temporary Ban
+Permanent Ban 
+
 This Code of Conduct is adapted from the Contributor Covenant
-(http://contributor-covenant.org), version 1.2.0, available at
+(http://contributor-covenant.org), version 2.0 available at
 http://contributor-covenant.org/version/1/2/0/
 
 ### CNCF Events Code of Conduct
